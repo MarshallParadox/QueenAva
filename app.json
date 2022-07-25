@@ -1,8 +1,8 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "QueenAva",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/vihangayt0/VihangaBot-MD",
-  "logo": "hhttps://i.ibb.co/THTK67m/Vihanga-MD.png",
+  "repository": "https://github.com/MarshallParadox/QueenAva",
+  "logo": "https://ibb.co/L5B6CLc",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
